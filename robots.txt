@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://my-modern-home-decor.netlify.app/sitemap.xml
